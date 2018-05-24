@@ -1,0 +1,10 @@
+c:\users\admin\source\repos\CSh_lab\CSh_lab\bin\Debug\CSh_lab.exe.config
+c:\users\admin\source\repos\CSh_lab\CSh_lab\bin\Debug\CSh_lab.exe
+c:\users\admin\source\repos\CSh_lab\CSh_lab\bin\Debug\CSh_lab.pdb
+c:\users\admin\source\repos\CSh_lab\CSh_lab\obj\Debug\CSh_lab.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\CSh_lab\CSh_lab\obj\Debug\CSh_lab.Form1.resources
+c:\users\admin\source\repos\CSh_lab\CSh_lab\obj\Debug\CSh_lab.Properties.Resources.resources
+c:\users\admin\source\repos\CSh_lab\CSh_lab\obj\Debug\CSh_lab.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\CSh_lab\CSh_lab\obj\Debug\CSh_lab.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\CSh_lab\CSh_lab\obj\Debug\CSh_lab.exe
+c:\users\admin\source\repos\CSh_lab\CSh_lab\obj\Debug\CSh_lab.pdb
